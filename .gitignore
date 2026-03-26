@@ -14,8 +14,6 @@ __pycache__/
 *.pyd
 .Python
 
-outputs/
-
 .crewai/
 
 .DS_Store
